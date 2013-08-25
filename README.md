@@ -14,5 +14,7 @@ Chat Live with your website visitors. See how they are browsing your website.
 
 ## Goals
 
+- See who is browsing your website, with information about referral, pages visit, time spent
+
 ## Contribute
 Contributions are welcome and much appreciated!
